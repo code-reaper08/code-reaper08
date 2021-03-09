@@ -1,5 +1,5 @@
 
-# Vannakam 👋
+# Vannakam 🙏
 
 <div align="center">
 
@@ -7,7 +7,7 @@
 </div>
 
 ## 
-## I am  **Vishwa.R** ( aka **Code-reaper08** )
+## I am  **Vishwa.R** ( aka **Code-reaper08** )✔
 I am a **continuous learner** and **explorer** who love to dive deep into the Javascript Ocean.
 <br>
 <br>
@@ -15,17 +15,17 @@ I am a **continuous learner** and **explorer** who love to dive deep into the Ja
 With no wonder, I am a **UnderGrad** pursuing **Computer Science and Engineering** as my major field of study in **India**.
 
 ### **Guess these below points would fit me in,** 
-- I am a Student.
-- I love to play and watch Football.
-- I love programming.
-- I feel rebel.
-- I vibe to 2pac, Bob Marley and freddie.
+- I am a Student.♥
+- I love to play and watch Football.⚽
+- I love programming.💻
+- I feel rebel.🐱‍🏍
+- I vibe to 2pac, Bob Marley and freddie.🎶
 
-                   `` I love OPEN SOURCE.``
+                                                      I love OPEN SOURCE.
 
 ---
 
-## My Stats
+## My Stats✨
 <br>
 
 <div align="center">
@@ -36,7 +36,7 @@ With no wonder, I am a **UnderGrad** pursuing **Computer Science and Engineering
 
 ---
 &nbsp;
-## What I am doing currently 
+## What I am doing currently ✌
 I am currently in the process of learning **React.js** and **Mongodb**.
 In the meantime I love to make simple frontends, to actually get a hang of CSS.
 
@@ -44,7 +44,7 @@ In the meantime I love to make simple frontends, to actually get a hang of CSS.
 
 ---
 &nbsp;
-## Notable projects of my own
+## Notable projects of my own 💖
 
 <br>
 
@@ -53,21 +53,25 @@ In the meantime I love to make simple frontends, to actually get a hang of CSS.
     **_repo link_** : [https://github.com/code-reaper08/MDsnippets](https://github.com/code-reaper08/MDsnippets)
 <br>
 <br>
+
 2. [**MarkdownAssistant**](https://packagecontrol.io/packages/MarkdownAssistant) - **MarkdownAssistant** is a snippet autocomplete package for SublimeText-3, Which enables easy editing and creation of MarkDown files.
 
-    **_repo link_** : [https://github.com/code-reaper08/MarkdownAssistant](https://github.com/code-reaper08/MarkdownAssistant)
+   **_repo link_** : [https://github.com/code-reaper08/MarkdownAssistant](https://github.com/code-reaper08/MarkdownAssistant)
 <br>
 <br>
+
 3. [**DocGen-X**](https://www.npmjs.com/package/docgen-x) - **docgen-x** is a a node CLI tool, which helps in creating License files for projects with ease. It was made with lesser number of dependencies.
 
    **_repo link_** : [https://github.com/code-reaper08/docgen-x](https://github.com/code-reaper08/docgen-x)
 <br>
 <br>
+
 4. [**PyBrainf-ck**](https://pypi.org/project/PyBrainf-ck/) - **PyBrainf-ck** is a simple package which gives the brainfuck code for the passed text. It's available in PyPi for download.
 
     **_repo link_** : [https://github.com/code-reaper08/PyBrainf_ck](https://github.com/code-reaper08/PyBrainf_ck)
 <br>
 <br>
+
 5. [**GameBoy-Adventures**](https://vishwa-r.itch.io/gameboy-adventures) - **GameBoy-Adventures** is a simple Platformer game built using Godot Engine.This is a simple retro styled platformer game fully built using Godot Engine.
 
     **_repo link_** : [https://github.com/code-reaper08/GameBoy-Adventures](https://github.com/code-reaper08/GameBoy-Adventures)
@@ -77,7 +81,7 @@ In the meantime I love to make simple frontends, to actually get a hang of CSS.
 
 ---
 &nbsp;
-## Projects I've Contributed to
+## Projects I've Contributed to 🎉
 <br>
 
 1. [markdownpedia](https://github.com/mamamia5x/markdownpedia) - **Markdownpedia** is a site similar to Wikipedia. All you got to do to edit a page is go to site/markdown and edit/add a page.
@@ -88,7 +92,7 @@ In the meantime I love to make simple frontends, to actually get a hang of CSS.
 
 ---
 &nbsp;
-## Languages and Tools I know 
+## Languages and Tools I know 💬
 <br>
 
 <div align="center">
@@ -113,13 +117,13 @@ In the meantime I love to make simple frontends, to actually get a hang of CSS.
 <br>
 <br>
 
-## Connect with me 
+## Connect with me 👇
 <br>
 
 <div align="left">
 
 
-<a href="https://www.linkedin.com/in/vishwa08/" target="_blank"><img src="https://pics.freeicons.io/uploads/icons/png/13594160351580961642-512.png" alt="bootstrap" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.reddit.com/user/Defiant_Sympathy_724/" target="_blank"><img src="https://pics.freeicons.io/uploads/icons/png/12941701521579517871-512.png" alt="bootstrap" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/vishwa08/" target="_blank"><img src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1615285513~hmac=d69c335c8911aac5fde384cf875cd232" alt="linkedin" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.reddit.com/user/Defiant_Sympathy_724/" target="_blank"><img src="https://www.flaticon.com/svg/vstatic/svg/1409/1409938.svg?token=exp=1615285587~hmac=bc8cb5ec800f4af8dc5e6f65857b6bcd" alt="reddit" width="40" height="40"/></a>
 
 </div>
 
