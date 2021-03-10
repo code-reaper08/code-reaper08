@@ -90,6 +90,13 @@ In the meantime I love to make simple frontends, to actually get a hang of CSS.
 
 <br>
 
+2. [Time to Leave](https://github.com/thamara/time-to-leave) - **Time to Leave** is a electron based program/software to log work hours and get notified when it's time to leave the office.
+
+   **_repo link_** : [https://github.com/thamara/time-to-leave](https://github.com/thamara/time-to-leave)
+
+<br>
+
+
 ---
 &nbsp;
 ## Languages and Tools I know 💬
