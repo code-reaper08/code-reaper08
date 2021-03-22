@@ -130,7 +130,7 @@ In the meantime I love to make simple frontends, to actually get a hang of CSS.
 <div align="left">
 
 
-<a href="https://www.linkedin.com/in/vishwa08/" target="_blank"><img src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1615285513~hmac=d69c335c8911aac5fde384cf875cd232" alt="linkedin" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.reddit.com/user/Defiant_Sympathy_724/" target="_blank"><img src="https://www.flaticon.com/svg/vstatic/svg/1409/1409938.svg?token=exp=1615285587~hmac=bc8cb5ec800f4af8dc5e6f65857b6bcd" alt="reddit" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/vishwa08/" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/social-media-basic-duo-color/64/media_network_social_internet_web_mobile_6-256.png" alt="linkedin" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.reddit.com/user/Defiant_Sympathy_724/" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/logo-brand/512/reddit_social_media_logo-256.png" alt="reddit" width="40" height="40"/></a>
 
 </div>
 
