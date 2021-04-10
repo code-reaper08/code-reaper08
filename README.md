@@ -1,5 +1,5 @@
 
-# Vanakkam 🙏
+# Vanakkam <img src="https://media.giphy.com/media/WqR7WfQVrpXNcmrm81/giphy.gif" alt="linkedin" width="40" height="40"/>
 
 <div align="center">
 
