@@ -16,7 +16,7 @@ I am a **continuous learner** and **explorer** who love to dive deep into the Ja
 With no wonder, I am a **UnderGrad** pursuing **Computer Science and Engineering** as my major field of study in **India**.
 
 ### **Guess these below points would fit me in,** 
-- I am a Student.♥
+- I am a Student.<img src="https://media.giphy.com/media/YondZW6AMjgTEHevF0/giphy.gif" alt="linkedin" width="30" height="30"/>
 - I love to play and watch Football.⚽
 - I love programming.💻
 - I feel rebel.🐱‍🏍
