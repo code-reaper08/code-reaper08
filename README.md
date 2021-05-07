@@ -55,7 +55,7 @@ In the meantime I love to make simple frontends, to actually get a hang of CSS.
 <br>
 <br>
 
-2. [**MarkdownAssistant**](https://packagecontrol.io/packages/MarkdownAssistant) - **MarkdownAssistant** is a snippet autocomplete package for SublimeText-3, Which enables easy editing and creation of MarkDown files.
+2. [**MarkdownAssistant**](https://packagecontrol.io/packages/MarkdownAssistant)<img src="https://www.flaticon.com/svg/vstatic/svg/1946/1946430.svg?token=exp=1620369848~hmac=4fcfe0fa846f3b031aa7382ed392c1df" alt="c" width="20" height="20"/> - **MarkdownAssistant** is a snippet autocomplete package for SublimeText-3, Which enables easy editing and creation of MarkDown files.
 
    **_repo link_** : [https://github.com/code-reaper08/MarkdownAssistant](https://github.com/code-reaper08/MarkdownAssistant)
 <br>
