@@ -6,8 +6,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=code-reaper08&theme=darkhub&margin-h=5&row=3&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
-## 
-## I am  **Vishwa.R** ( aka **Code-reaper08** )✔
+## Who is Vishwa.R?
+I am  **Vishwa.R** ( aka **Code-reaper08** )✔
 I am a **continuous learner** and **explorer** who love to dive deep into the Javascript Ocean.
 **A GitHub Developer Program Member**
 <br>
