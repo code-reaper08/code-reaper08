@@ -15,14 +15,17 @@ I am a **continuous learner** and **explorer** who love to dive deep into the Ja
 
 With no wonder, I am a **UnderGrad** pursuing **Computer Science and Engineering** as my major field of study in **India**.
 
-### **Guess these below points would fit me in,** 
-- I am a Student.<img src="https://media.giphy.com/media/YondZW6AMjgTEHevF0/giphy.gif" alt="linkedin" width="30" height="30"/>
-- I love to play and watch Football.⚽
-- I love programming.💻
-- I feel rebel.🐱‍🏍
-- I vibe to 2pac, Bob Marley and freddie.🎶
+<details close>
+  <summary>Guess these below points would fit me in,
+</summary>
+    <li>I am a Student.<img src="https://media.giphy.com/media/YondZW6AMjgTEHevF0/giphy.gif" alt="linkedin" width="30" height="30"/></li>
+<li>I love to play and watch Football.⚽</li>
+<li>I love programming.💻</li>
+<li>I feel rebel.🐱‍🏍</li>
+<li>I vibe to 2pac, Bob Marley and freddie.🎶</li>
+  </details>
 
-                                                      I love OPEN SOURCE.
+<br>
 
 ---
 
