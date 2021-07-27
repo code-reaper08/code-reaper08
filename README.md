@@ -14,7 +14,8 @@ I am a **continuous learner** and **explorer** who love to dive deep into the Ja
 <br>
 <div align="center">
 
-✨**Contributor** @ [python](https://www.python.org/)✨
+✨**Contributor** @ [python](https://www.python.org/)✨ <br>
+✨**Reported a bug** @ [npm](https://www.npmjs.com/)✨
 </div>
 
 <br>
