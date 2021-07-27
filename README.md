@@ -65,73 +65,71 @@ In the meantime I love to make simple frontends, to actually get a hang of CSS.
 
 <br>
 
-1. [**MDSnippets**](https://marketplace.visualstudio.com/items?itemName=VishwaR.mdsnippets) - **MDSnippets** is a Snippet autocomplete extension for VScode.Just give a try and I am planning to give a update for this.
-
-    **_repo link_** : [https://github.com/code-reaper08/MDsnippets](https://github.com/code-reaper08/MDsnippets)
+<details close>
+  <summary><a href="https://marketplace.visualstudio.com/items?itemName=VishwaR.mdsnippets">MDSnippets</a> - MDSnippets is a Snippet autocomplete extension for VScode.Just give a try and I am planning to give a update for this.
+</summary>
+ <strong>repo link</strong>: <a href="https://github.com/code-reaper08/MDsnippets">https://github.com/code-reaper08/MDsnippets</a>()
+  </details>
 <br>
+<details close>
+  <summary><a href="https://packagecontrol.io/packages/MarkdownAssistant">MarkdownAssistant</a> - MarkdownAssistant is a snippet autocomplete package for SublimeText-3, Which enables easy editing and creation of MarkDown files.
+</summary>
+ <strong>repo link</strong>: <a href="https://github.com/code-reaper08/MarkdownAssistant">https://github.com/code-reaper08/MarkdownAssistant</a>
+  </details>
 <br>
-
-2. [**MarkdownAssistant**](https://packagecontrol.io/packages/MarkdownAssistant) - **MarkdownAssistant** is a snippet autocomplete package for SublimeText-3, Which enables easy editing and creation of MarkDown files.
-
-   **_repo link_** : [https://github.com/code-reaper08/MarkdownAssistant](https://github.com/code-reaper08/MarkdownAssistant)
+<details close>
+  <summary><a href="https://www.npmjs.com/package/docgen-x">DocGen-X</a> - docgen-x is a a node CLI tool, which helps in creating License files for projects with ease. It was made with lesser number of dependencies.
+</summary>
+ <strong>repo link</strong>: <a href="https://github.com/code-reaper08/docgen-x">https://github.com/code-reaper08/docgen-x</a>
+  </details>
 <br>
+<details close>
+  <summary><a href="https://pypi.org/project/PyBrainf-ck/">PyBrainf-ck</a> - PyBrainf-ck is a simple package which gives the brainfuck code for the passed text. It's available in PyPi for download.
+</summary>
+ <strong>repo link</strong>: <a href="https://github.com/code-reaper08/PyBrainf_ck">https://github.com/code-reaper08/PyBrainf_ck</a>
+  </details>
 <br>
-
-3. [**DocGen-X**](https://www.npmjs.com/package/docgen-x) - **docgen-x** is a a node CLI tool, which helps in creating License files for projects with ease. It was made with lesser number of dependencies.
-
-   **_repo link_** : [https://github.com/code-reaper08/docgen-x](https://github.com/code-reaper08/docgen-x)
+<details close>
+  <summary><a href="https://vishwa-r.itch.io/gameboy-adventures">GameBoy-Adventures</a> - GameBoy-Adventures is a simple Platformer game built using Godot Engine.This is a simple retro styled platformer game fully built using Godot Engine.
+</summary>
+ <strong>repo link</strong>: <a href="https://github.com/code-reaper08/GameBoy-Adventures">https://github.com/code-reaper08/GameBoy-Adventures</a>
+  </details>
 <br>
-<br>
-
-4. [**PyBrainf-ck**](https://pypi.org/project/PyBrainf-ck/) - **PyBrainf-ck** is a simple package which gives the brainfuck code for the passed text. It's available in PyPi for download.
-
-    **_repo link_** : [https://github.com/code-reaper08/PyBrainf_ck](https://github.com/code-reaper08/PyBrainf_ck)
-<br>
-<br>
-
-5. [**GameBoy-Adventures**](https://vishwa-r.itch.io/gameboy-adventures) - **GameBoy-Adventures** is a simple Platformer game built using Godot Engine.This is a simple retro styled platformer game fully built using Godot Engine.
-
-    **_repo link_** : [https://github.com/code-reaper08/GameBoy-Adventures](https://github.com/code-reaper08/GameBoy-Adventures)
-
-<br>
-<br>
-
-6. [**Link-Master**](https://code-reaper08.github.io/Link-Master/) - **Link-Master** is a Web-APP which finds all the Broken-URL's in your Project's README file.
+<details close>
+  <summary><a href="https://code-reaper08.github.io/Link-Master/">Link-Master</a> - Link-Master is a Web-APP which finds all the Broken-URL's in your Project's README file.
 It uses Cheerio for scraping the exact Readme file content and present you with status for each link either as "Success" or "Failure".
-
-    **_repo link_** : [https://github.com/code-reaper08/Link-Master](https://github.com/code-reaper08/Link-Master)
-
+</summary>
+ <strong>repo link</strong>: <a href="https://github.com/code-reaper08/Link-Master">https://github.com/code-reaper08/Link-Master</a>
+  </details>
 <br>
-<br>
-
-7. [**G-Card**](https://code-reaper08.github.io/G-Card/) - **G-Card** is a Web-APP which generate a card containing info from your GitHub profile using your GitHub username as input. This card can be used anywhere to represent your expertize and skills. We think it would be a informative and creative addition to your LinkedIn profile Background image.
-
-    **_repo link_** : [https://github.com/code-reaper08/G-Card](https://github.com/code-reaper08/G-Card)
-
-<br>
+<details close>
+  <summary><a href="https://code-reaper08.github.io/G-Card/">G-Card</a> - G-Card is a Web-APP which generate a card containing info from your GitHub profile using your GitHub username as input. This card can be used anywhere to represent your expertize and skills. We think it would be a informative and creative addition to your LinkedIn profile Background image.
+</summary>
+ <strong>repo link</strong>: <a href="https://github.com/code-reaper08/G-Card">https://github.com/code-reaper08/G-Card</a>
+  </details>
 <br>
 
 ---
 &nbsp;
 ## Projects I've Contributed to 🎉
 <br>
-
-1. [markdownpedia](https://github.com/mamamia5x/markdownpedia) - **Markdownpedia** is a site similar to Wikipedia. All you got to do to edit a page is go to site/markdown and edit/add a page.
-
-   **_repo link_** : [https://github.com/mamamia5x/markdownpedia](https://github.com/mamamia5x/markdownpedia)
-
+<details close>
+  <summary><a href="https://github.com/mamamia5x/markdownpedia">markdownpedia</a> - Markdownpedia is a site similar to Wikipedia. All you got to do to edit a page is go to site/markdown and edit/add a page.
+</summary>
+ <strong>repo link</strong>: <a href="https://github.com/mamamia5x/markdownpedia">https://github.com/mamamia5x/markdownpedia</a>
+  </details>
 <br>
-
-2. [Time to Leave](https://github.com/thamara/time-to-leave) - **Time to Leave** is a electron based program/software to log work hours and get notified when it's time to leave the office.
-
-   **_repo link_** : [https://github.com/thamara/time-to-leave](https://github.com/thamara/time-to-leave)
-
+<details close>
+  <summary><a href="https://github.com/thamara/time-to-leave">Time to Leave</a> - Time to Leave is a electron based program/software to log work hours and get notified when it's time to leave the office.
+</summary>
+ <strong>repo link</strong>: <a href="https://github.com/thamara/time-to-leave">https://github.com/thamara/time-to-leave</a>
+  </details>
 <br>
-
-3. [Mavo.io](https://github.com/mavoweb/mavo.io) - **Mavo** lets you create web applications entirely by writing HTML and CSS!
-
-   **_repo link_** : [https://github.com/mavoweb/mavo.io](https://github.com/mavoweb/mavo.io)
-
+<details close>
+  <summary><a href="https://github.com/mavoweb/mavo.io">Mavo.io</a> - Mavo lets you create web applications entirely by writing HTML and CSS!
+</summary>
+ <strong>repo link</strong>: <a href="https://github.com/mavoweb/mavo.io">https://github.com/mavoweb/mavo.io</a>
+  </details>
 <br>
 
 
