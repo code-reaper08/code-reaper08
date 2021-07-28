@@ -16,7 +16,7 @@ I am a **continuous learner** and **explorer** who love to dive deep into the Ja
 
 ✨**Contributor** @ [python](https://www.python.org/)✨ <br>
 ✨**Reported a bug** @ [npm](https://www.npmjs.com/)✨ <br>
-✨**Contributor** @ [TypeScript](https://www.typescriptlang.org/)
+✨**Contributor** @ [TypeScript](https://www.typescriptlang.org/)✨
 
 </div>
 
