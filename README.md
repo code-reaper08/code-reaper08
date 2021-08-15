@@ -44,10 +44,10 @@ With no wonder, I am a **UnderGrad** pursuing **Computer Science and Engineering
 <div align="center">
 
 <!--- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=code-reaper08&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) --->
+<!-- 
+![Metrics](https://metrics.lecoq.io/code-reaper08?template=classic&isocalendar=1&languages=1&introduction=1&activity=1&achievements=1&notable=1&followup=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&followup.sections=repositories&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=5&notable.repositories=false&config.timezone=Asia%2FCalcutta) -->
 
-![Metrics](https://metrics.lecoq.io/code-reaper08?template=classic&isocalendar=1&languages=1&introduction=1&activity=1&achievements=1&notable=1&followup=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&followup.sections=repositories&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=5&notable.repositories=false&config.timezone=Asia%2FCalcutta)
-
-
+![Metrics](https://metrics.lecoq.io/code-reaper08?template=classic&isocalendar=1&languages=1&introduction=1&stars=1&gists=1&followup=1&activity=1&achievements=1&notable=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&stars.limit=4&followup.sections=repositories&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&notable.repositories=false&config.timezone=Asia%2FCalcutta)
 
 
 
