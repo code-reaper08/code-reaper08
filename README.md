@@ -17,7 +17,8 @@ I am a **continuous learner** and **explorer** who love to dive deep into the Ja
 ✨**Supervisor** @ [GWOC](https://gwoc.girlscript.tech/)✨ <br>
 ✨**Contributor** @ [python](https://www.python.org/)✨ <br>
 ✨**Reported a bug** @ [npm](https://www.npmjs.com/)✨ <br>
-✨**Contributor** @ [TypeScript](https://www.typescriptlang.org/)✨
+✨**Contributor** @ [TypeScript](https://www.typescriptlang.org/)✨ <br>
+✨**Tech-Ambassador** @ [MetaWiki](https://meta.m.wikimedia.org/wiki/Main_Page)✨
 
 </div>
 
