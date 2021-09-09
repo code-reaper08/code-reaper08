@@ -118,6 +118,7 @@ It uses Cheerio for scraping the exact Readme file content and present you with 
  <strong>repo link</strong>: <a href="https://github.com/code-reaper08/SpectreCSS-Sublime-Snippets">https://github.com/code-reaper08/SpectreCSS-Sublime-Snippets</a>
   </details>
 <br>
+
 ---
 &nbsp;
 ## Projects I've Contributed to 🎉
