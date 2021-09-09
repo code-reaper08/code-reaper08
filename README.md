@@ -112,7 +112,12 @@ It uses Cheerio for scraping the exact Readme file content and present you with 
  <strong>repo link</strong>: <a href="https://github.com/code-reaper08/G-Card">https://github.com/code-reaper08/G-Card</a>
   </details>
 <br>
-
+<details close>
+  <summary><a href="https://packagecontrol.io/packages/SpectreCSS%20Snippets">Spectre​CSS Snippets</a> - SpectreCSS is a minimalistic CSS-only framework, which caught my eye, when i was searching for a pure CSS framework, giving me more flexibility and customization ability. When doing SpectreCSS, I got an idea to accomodate all the possible abilities of SpectreCSS into a ST package. I think SpectreCSS by itself is easy and smart, this autocomplete package will add to its simplicity by providing ready to use snippets at your disposal.
+</summary>
+ <strong>repo link</strong>: <a href="https://github.com/code-reaper08/SpectreCSS-Sublime-Snippets">https://github.com/code-reaper08/SpectreCSS-Sublime-Snippets</a>
+  </details>
+<br>
 ---
 &nbsp;
 ## Projects I've Contributed to 🎉
