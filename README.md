@@ -141,7 +141,12 @@ It uses Cheerio for scraping the exact Readme file content and present you with 
  <strong>repo link</strong>: <a href="https://github.com/mavoweb/mavo.io">https://github.com/mavoweb/mavo.io</a>
   </details>
 <br>
-
+<details close>
+  <summary><a href="https://github.com/mavoweb/mavo.io">python.org</a> - Repository containing Source code for python.org
+</summary>
+ <strong>repo link</strong>: <a href="https://github.com/python/pythondotorg">https://github.com/python/pythondotorg</a>
+  </details>
+<br>
 
 ---
 &nbsp;
