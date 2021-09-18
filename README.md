@@ -147,6 +147,12 @@ It uses Cheerio for scraping the exact Readme file content and present you with 
  <strong>repo link</strong>: <a href="https://github.com/python/pythondotorg">https://github.com/python/pythondotorg</a>
   </details>
 <br>
+<details close>
+  <summary><a href="https://www.npmjs.com/">npmjs</a> - Official NPM website.
+</summary>
+ <strong>repo link</strong>: <a href="https://github.com/npm">https://github.com/npm</a>
+  </details>
+<br>
 
 ---
 &nbsp;
