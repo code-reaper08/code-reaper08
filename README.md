@@ -174,6 +174,7 @@ It uses Cheerio for scraping the exact Readme file content and present you with 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/>&nbsp;
+<img src="https://wikiapiary.com/w/images/wikiapiary/9/96/Esolang_Logo.png" alt="=esolangs" width="40" height="40"/>&nbsp;
 
 ### Web tech I Know
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>&nbsp;
