@@ -15,7 +15,8 @@ I am a **continuous learner** and **explorer** who love to dive deep into the Ja
 <div align="center">
   
 ✨**Supervisor** @ [GWOC](https://gwoc.girlscript.tech/)✨ <br>
-✨**Contributor** @ [python](https://www.python.org/)✨ <br>
+✨**Contributor** @ [Python](https://www.python.org/)✨ <br>
+✨**Contributor** @ [Selenium](https://www.selenium.dev/)✨ <br>
 ✨**Reported a bug** @ [npm](https://www.npmjs.com/)✨ <br>
 ✨**Contributor** @ [TypeScript](https://www.typescriptlang.org/)✨ <br>
 ✨**Tech-Ambassador** @ [MetaWiki](https://meta.m.wikimedia.org/wiki/Main_Page)✨
@@ -151,6 +152,12 @@ It uses Cheerio for scraping the exact Readme file content and present you with 
   <summary><a href="https://www.npmjs.com/">npmjs</a> - Official NPM website.
 </summary>
  <strong>repo link</strong>: <a href="https://github.com/npm">https://github.com/npm</a>
+  </details>
+<br>
+<details close>
+  <summary><a href="https://www.npmjs.com/">Selenium</a> - Official Selenium website.
+</summary>
+ <strong>repo link</strong>: <a href="https://www.selenium.dev/">https://www.selenium.dev/</a>
   </details>
 <br>
 
