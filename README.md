@@ -59,8 +59,14 @@ With no wonder, I am a **UnderGrad** pursuing **Computer Science and Engineering
 ---
 &nbsp;
 ## What I am doing currently ✌
-I am currently in the process of learning **React.js** and **Mongodb**.
+I am currently in the process of learning **React.js**, **PostgreSQL** and a bit of **Firebase & Supabase**.
 In the meantime I love to make simple frontends, to actually get a hang of CSS.
+
+Oops! Did I mention that I do fun web-clone projects?
+Here are a couple, if you haven't seen them yet
+
+1. Internshala-Clone 🠖 [Live site](https://code-reaper08.github.io/Internshala-Clone/) ✨🌐
+2. Neuralink-Clone 🠖 [Live site](https://neuralink-clone.netlify.app/) ✨🌐
 
 <br>
 
