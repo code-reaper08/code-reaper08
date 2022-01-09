@@ -14,7 +14,7 @@ I am a **continuous learner** and **explorer** who love to dive deep into the Ja
 <br>
 <div align="center">
   
-✨**Supervisor** @ [GWOC](https://gwoc.girlscript.tech/)✨ <br>
+✨**Top Supervisor** @ [GWOC'21](https://gwoc.girlscript.tech/)✨ <br>
 ✨**Contributor** @ [Python](https://www.python.org/)✨ <br>
 ✨**Contributor** @ [Selenium](https://www.selenium.dev/)✨ <br>
 ✨**Reported a bug** @ [npm](https://www.npmjs.com/)✨ <br>
@@ -53,8 +53,9 @@ With no wonder, I am a **UnderGrad** pursuing **Computer Science and Engineering
 
 <!-- ![Metrics](https://metrics.lecoq.io/code-reaper08?template=classic&isocalendar=1&languages=1&introduction=1&stars=1&gists=1&followup=1&activity=1&achievements=1&notable=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&stars.limit=4&followup.sections=repositories&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&notable.repositories=false&config.timezone=Asia%2FCalcutta) -->
 
-![Metrics](https://metrics.lecoq.io/code-reaper08?template=classic&isocalendar=1&languages=1&introduction=1&gists=1&followup=1&lines=1&activity=1&achievements=1&notable=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&followup.sections=repositories&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&notable.repositories=false&config.timezone=Asia%2FCalcutta)
-
+<!-- ![Metrics](https://metrics.lecoq.io/code-reaper08?template=classic&isocalendar=1&languages=1&introduction=1&gists=1&followup=1&lines=1&activity=1&achievements=1&notable=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&followup.sections=repositories&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&notable.repositories=false&config.timezone=Asia%2FCalcutta) -->
+  
+![Metrics](https://metrics.lecoq.io/code-reaper08?template=classic&isocalendar=1&languages=1&followup=1&activity=1&achievements=1&notable=1&lines=1&repositories=1&gists=1&introduction=1&pagespeed=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&followup.indepth=false&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&introduction.title=true&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FKolkata)
 </div>
 
 ---
@@ -77,6 +78,12 @@ Here are a couple, if you haven't seen them yet
 
 <br>
 
+<details close>
+  <summary><a href="https://addons.mozilla.org/en-US/firefox/addon/onlyhtml/">OnlyHTML</a> - An open-source add-on to remove the CSS of a webpage.OnlyHTML add-on does exactly the same with a single click. No extra settings, no extra clicks, see only the HTML in all it's glory!
+</summary>
+ <strong>repo link</strong>: <a href="https://github.com/code-reaper08/OnlyHTML">https://github.com/code-reaper08/OnlyHTML</a>()
+  </details>
+<br>
 <details close>
   <summary><a href="https://marketplace.visualstudio.com/items?itemName=VishwaR.mdsnippets">MDSnippets</a> - MDSnippets is a Snippet autocomplete extension for VScode.Just give a try and I am planning to give a update for this.
 </summary>
