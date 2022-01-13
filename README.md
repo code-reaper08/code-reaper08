@@ -14,6 +14,7 @@ I am a **continuous learner** and **explorer** who love to dive deep into the Ja
 <br>
 <div align="center">
   
+✨**Web developer** @ [GSSoC'22](https://gssoc.girlscript.tech/)✨ <br>
 ✨**Top Supervisor** @ [GWOC'21](https://gwoc.girlscript.tech/)✨ <br>
 ✨**Contributor** @ [Python](https://www.python.org/)✨ <br>
 ✨**Contributor** @ [Selenium](https://www.selenium.dev/)✨ <br>
