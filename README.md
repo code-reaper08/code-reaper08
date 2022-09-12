@@ -13,7 +13,8 @@ I am a **continuous learner** and **explorer** who love to dive deep into the Ja
 
 <br>
 <div align="center">
- 
+
+✨**Finalist** @ [Smart India Hackathon'22](https://sih.gov.in/)✨ <br> 
 ✨**Mentor** @ [GSSoC'22](https://gssoc.girlscript.tech/) for [Rezume](https://github.com/CatsInTech/Rezume)✨ <br>
 ✨**Web developer** @ [GSSoC'22](https://gssoc.girlscript.tech/)✨ <br>
 ✨**Top Supervisor** @ [GWOC'21](https://gwoc.girlscript.tech/)✨ <br>
