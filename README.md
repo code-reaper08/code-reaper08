@@ -139,7 +139,7 @@ It uses Cheerio for scraping the exact Readme file content and present you with 
 <details close>
   <summary><a href="https://editsei.netlify.app/">EDITsei</a> - EDITsei is a super minimalistic markdown editor that works rights in the browser. EDITSei is a markdown editor/previewer. It aims to be as minimal as it can be. EDITsei is a client-side web application, intended for casual writing. It is built using NextJS and TailwindCSS.
 </summary>
- <strong>repo link</strong>: <a href="https://github.com/code-reaper08/Editsei">https://github.com/code-reaper08/Editsei</a>()
+ <strong>repo link</strong>: <a href="https://github.com/code-reaper08/Editsei">https://github.com/code-reaper08/Editsei</a>
   </details>
 <br>
 
