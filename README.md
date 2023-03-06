@@ -39,10 +39,10 @@ With no wonder, I am a **UnderGrad** pursuing **Computer Science and Engineering
 <li>I love programming and solving problems 💻</li>
 <li>I vibe to 2pac, Bob Marley and freddie 🎶</li>
   </details>
+  
+  <br>
 
-<br>
-
-<!-- --- -->
+---
 
 <!-- ## My Stats✨
 <br> -->
@@ -69,14 +69,17 @@ With no wonder, I am a **UnderGrad** pursuing **Computer Science and Engineering
 <!-- --- -->
 &nbsp;
 ## What I am doing currently ✌
-I am currently in the process of learning **React.js**, **PostgreSQL** and a bit of **Firebase & Supabase**.
-In the meantime I love to make simple frontends, to actually get a hang of CSS.
+I am currently working on full-stack web development, Linux, Bash scripting, PowerShell scripting, and building utility tools for various domains such as digital forensics. I am also spending my time learning a bit more about computer hardware.
+
+Recent works include,
+1. [VALFE08](https://github.com/code-reaper08/VALFE08)
+2. [EDITsei](https://github.com/code-reaper08/Editsei)
 
 Oops! Did I mention that I do fun web-clone projects?
 Here are a couple, if you haven't seen them yet
 
-1. Internshala-Clone 🠖 [Live site](https://code-reaper08.github.io/Internshala-Clone/) ✨🌐
-2. Neuralink-Clone 🠖 [Live site](https://neuralink-clone.netlify.app/) ✨🌐
+1. Internshala-Clone - [Live site](https://code-reaper08.github.io/Internshala-Clone/) ✨🌐
+2. Neuralink-Clone - [Live site](https://neuralink-clone.netlify.app/) ✨🌐
 
 <br>
 
