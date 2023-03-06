@@ -34,19 +34,18 @@ With no wonder, I am a **UnderGrad** pursuing **Computer Science and Engineering
 <details close>
   <summary>Guess these below points would fit me in,
 </summary>
-    <li>I am a Student.<img src="https://media.giphy.com/media/YondZW6AMjgTEHevF0/giphy.gif" alt="linkedin" width="30" height="30"/></li>
-<li>I love to play and watch Football.⚽</li>
-<li>I love programming.💻</li>
-<li>I feel rebel.🐱‍🏍</li>
-<li>I vibe to 2pac, Bob Marley and freddie.🎶</li>
+<li>I am always a student ❤️</li>
+<li>I love to play and watch Football ⚽</li>
+<li>I love programming and solving problems 💻</li>
+<li>I vibe to 2pac, Bob Marley and freddie 🎶</li>
   </details>
 
 <br>
 
----
+<!-- --- -->
 
-## My Stats✨
-<br>
+<!-- ## My Stats✨
+<br> -->
 
 <div align="center">
 
@@ -60,10 +59,14 @@ With no wonder, I am a **UnderGrad** pursuing **Computer Science and Engineering
   
 <!-- ![Metrics](https://metrics.lecoq.io/code-reaper08?template=classic&isocalendar=1&languages=1&followup=1&activity=1&achievements=1&notable=1&lines=1&repositories=1&gists=1&introduction=1&pagespeed=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&followup.indepth=false&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&introduction.title=true&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FKolkata) -->
 
-  ![Metrics](https://metrics.lecoq.io/code-reaper08?template=classic&languages=1&lines=1&stars=1&habits=1&followup=1&people=1&introduction=1&repositories=1&discussions=1&achievements=1&notable=1&activity=1&gists=1&pagespeed=1&tweets=1&rss=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&introduction=false&introduction.title=true&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&discussions=false&discussions.categories=true&discussions.categories.limit=0&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&activity=false&activity.limit=5&activity.load=300&activity.days=13&activity.visibility=all&activity.timestamps=false&activity.filter=all&gists=false&pagespeed=false&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&pagespeed.pwa=false&tweets=false&tweets.user=.user.twitter&tweets.attachments=false&tweets.limit=2&rss=false&rss.source=https%3A%2F%2Fcr08.netlify.app%2Fen%2Findex.xml&rss.limit=4&config.timezone=Asia%2FKolkata)
+<!--   ![Metrics](https://metrics.lecoq.io/code-reaper08?template=classic&languages=1&lines=1&stars=1&habits=1&followup=1&people=1&introduction=1&repositories=1&discussions=1&achievements=1&notable=1&activity=1&gists=1&pagespeed=1&tweets=1&rss=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&introduction=false&introduction.title=true&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&discussions=false&discussions.categories=true&discussions.categories.limit=0&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&activity=false&activity.limit=5&activity.load=300&activity.days=13&activity.visibility=all&activity.timestamps=false&activity.filter=all&gists=false&pagespeed=false&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&pagespeed.pwa=false&tweets=false&tweets.user=.user.twitter&tweets.attachments=false&tweets.limit=2&rss=false&rss.source=https%3A%2F%2Fcr08.netlify.app%2Fen%2Findex.xml&rss.limit=4&config.timezone=Asia%2FKolkata) -->
+  
+<!-- [![Vishwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=code-reaper08&show_icons=true&count_private=true&theme=dark)](https://github.com/code-reaper08)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 </div>
 
----
+<!-- --- -->
 &nbsp;
 ## What I am doing currently ✌
 I am currently in the process of learning **React.js**, **PostgreSQL** and a bit of **Firebase & Supabase**.
@@ -144,6 +147,12 @@ It uses Cheerio for scraping the exact Readme file content and present you with 
  <strong>repo link</strong>: <a href="https://github.com/code-reaper08/Editsei">https://github.com/code-reaper08/Editsei</a>
   </details>
 <br>
+<details close>
+  <summary><a href="https://github.com/code-reaper08/VALFE08">VALFE08</a> - VALFE08 (Vishwa's Android Log File Extractor) is a utility tool, which enables users to acquire forensic data from android devices in a simple manner.
+</summary>
+ <strong>repo link</strong>: <a href="https://github.com/code-reaper08/VALFE08">https://github.com/cpde-reaper08/VALFE08</a>
+  </details>
+<br>
 
 ---
 &nbsp;
@@ -183,6 +192,18 @@ It uses Cheerio for scraping the exact Readme file content and present you with 
   <summary><a href="https://www.npmjs.com/">Selenium</a> - Official Selenium website.
 </summary>
  <strong>repo link</strong>: <a href="https://www.selenium.dev/">https://www.selenium.dev/</a>
+  </details>
+<br>
+<details close>
+  <summary><a href="https://vim-bootstrap.com/">Vim-Bootstrap</a> - Official Vim-Bootstrap website.
+</summary>
+ <strong>repo link</strong>: <a href="https://github.com/editor-bootstrap/vim-bootstrap">https://github.com/editor-bootstrap/vim-bootstrap</a>
+  </details>
+<br>
+<details close>
+  <summary><a href="https://godotengine.org/">Godot</a> - Official Godot website.
+</summary>
+ <strong>repo link</strong>: <a href="https://github.com/godotengine/godot-website">https://github.com/godotengine/godot-website</a>
   </details>
 <br>
 
