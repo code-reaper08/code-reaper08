@@ -277,17 +277,4 @@ It uses Cheerio for scraping the exact Readme file content and present you with 
 <br>
 <br>
 
-## Connect with me 👇
-<br>
-
-<div align="left">
-
-
-<a href="https://www.linkedin.com/in/vishwa08/" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/social-media-basic-duo-color/64/media_network_social_internet_web_mobile_6-256.png" alt="linkedin" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.reddit.com/user/Defiant_Sympathy_724/" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/logo-brand/512/reddit_social_media_logo-256.png" alt="reddit" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://dev.to/codereaper08" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/DEV_Community_Badge.svg/768px-DEV_Community_Badge.svg.png" alt="reddit" width="40" height="40"/></a>
-
-</div>
-
-<br>
-<br>
-
 ## You've Reached the end !
